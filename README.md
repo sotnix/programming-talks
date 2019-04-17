@@ -465,6 +465,7 @@ ever.
   * [Part 4: Implementing Idris](https://vimeo.com/62059837) [[mirror]](https://youtu.be/QPoKDJZbDmY) [01:11:29] by **Edwin Brady** (2013) [A]
 
 #### Java & Android
+* [Effective Java, Third Edition Keepin' it Effective](https://www.youtube.com/watch?v=hSfylUXhpkA) [00:45:57] by **Joshua Bloch** (2018)
 * [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco** (2017)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture](https://www.youtube.com/watch?v=IwJ-SCfXoAU) [02:34:29] by **Venkat Subramaniam** (2017)
 * [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click** (2016)
